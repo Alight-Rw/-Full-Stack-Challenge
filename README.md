@@ -18,13 +18,26 @@
 User Story:
 
 As a developer, we are approaches you to develop a web application for Our HR that has the following features;
+       - thsi is the HR Management System! This platform is designed to streamline HR activities, from managing candidates to overseeing job postings and facilitating the onboarding 
+        process. Our user-friendly interface ensures that your HR team can efficiently handle all tasks related to recruitment and employee management.
+
+    
+   📝 Full CRUD Functionality for Candidates and Jobs:
+
+        - Implement full CRUD (Create, Read, Update, Delete) functionality for managing candidates and job postings.
+        - Allow HR personnel to add new candidates to the system, including their personal information, qualifications, and job preferences.
+        - Enable HR personnel to add new job postings, providing detailed descriptions of job roles, requirements, and responsibilities.
+        - Ensure that HR personnel can view, edit, and delete candidate and job records as needed, providing flexibility and control over the recruitment process.
+        - Implement validation to ensure that all required fields are filled out correctly and that data integrity is maintained throughout the CRUD operations.
+        - Provide feedback and confirmation messages to users upon successful creation, update, or deletion of candidate and job records, enhancing the user
+        experience and usability of the application.
 
    🔐 Authentication on Login and Sign in
-   - Authentication(Implement secure authentication mechanisms, allowing users to sign up, log in,Upon registration, users should receive a 
-     confirmation email to verify their account.)
-   - Signup: HR personnel can sign up by providing necessary details. Upon signup, the system automatically assigns the position as HR personnel.
-   - Login: After successful signup, users can log in securely to access the platform's features. Upon login, users receive a token for authentication, providing a secure session.
-   - Password Reset: In case of a forgotten password, users can request a password reset link via email. This link allows them to reset their password securely. 
+        - Authentication(Implement secure authentication mechanisms, allowing users to sign up, log in,Upon registration, users should receive a 
+         confirmation email to verify their account.)
+        - Signup: HR personnel can sign up by providing necessary details. Upon signup, the system automatically assigns the position as HR personnel.
+        - Login: After successful signup, users can log in securely to access the platform's features. Upon login, users receive a token for authentication, providing a secure session.
+        - Password Reset: In case of a forgotten password, users can request a password reset link via email. This link allows them to reset their password securely. 
 
    📝 Candidate Management
 
@@ -36,11 +49,13 @@ As a developer, we are approaches you to develop a web application for Our HR th
 
 ### 🔖Requirements (For Frontend Part) Mandatory *
 
-   - Responsive Design(Ensure the platform is responsive and accessible from desktops, laptops, tablets, and smartphones.
-     Implement a user-friendly interface that allows HR personnel to perform tasks efficiently across different devices.)
-   - Figma Designs: Developers must refer to the Figma link provided, which contains all the screens and UI elements
-      necessary for building the frontend of the HR Management System.
-   - Design System Compliance:
+       - Responsive Design(Ensure the platform is responsive and accessible from desktops, laptops, tablets, and smartphones.
+           Implement a user-friendly interface that allows HR personnel to perform tasks efficiently across different devices.)
+       - Figma Designs: Developers must refer to the Figma link provided, which contains all the screens and UI elements
+          necessary for building the frontend of the HR Management System.
+       - Implement all backend functionalities, including candidate and job management, authentication, and data validation, on the frontend.
+       - Mirror backend features and usability in the frontend interface.
+       - If using an external API or theme, integrate it correctly and ensure smooth functionality within the frontend application.
 
 >Your project should be on an online repository (Gitlab, Github,...)
 
