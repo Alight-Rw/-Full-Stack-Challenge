@@ -47,19 +47,24 @@ As a developer, we are approaches you to develop a web application for Our HR th
 
 ### 📝Submission
 - FIGMA link Here https://xd.adobe.com/view/6cf6f179-0d96-4689-81c2-56e328ed4d09-39a5/
-- Submit via this Google form https://forms.gle/LhXfBemhKDQjvRmG7.
-- Deadline: 31 December 2021 at noon, submit before then.
+- Submit via this Google form https://forms.gle/7vcCbedjofbJX6BX8
+- Deadline: 29 March 2024 at Mid-night, submit before then.
 
 ### 👷🏽‍♀️Best Practices
 
 - Document your API eg: [Swagger](https://swagger.io/), Postman
-- Apply validation (phone number must be a Rwandan number, and email should be validated).
+- Apply validation (and email should be validated).
 - The system should throw an exception if any error occurs.
 - Properly log your application.
 - Do not hard code any sensitive data (eg: env variables).
 - Write a good README file with the steps to Install, Test & run your application (steps for docker included)
 
+
 ### ✨Bonus
-=
+- Full Stack App (Frontend + Backend): Doing both frontend and backend work is extra good. You need to do frontend, but if you also do backend, it's even better.
+- Fit on Small Screens: Making sure the app works on small screens is important. Adding extra screens for small screens gets extra points. It shows you care about everyone being able     to use the app.
+- Adding Backend: While the main focus is on making the front part, adding a backend for support is great. It helps with storing data and other things, and it gets you more points.
+
+
 
 
