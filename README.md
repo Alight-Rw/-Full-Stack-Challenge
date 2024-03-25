@@ -1,7 +1,7 @@
 # Alight Full-Stack-Challenge
 
 
-# Task Force FullStack Challenge (Javascript/Typescript)
+# FullStack Challenge (Javascript/Typescript) MERN
 
 * Create a full web application using the following stacks,
   Back-end: Use any Javascript or Type Javascript framework/library you are comfortable with (or any technology).
