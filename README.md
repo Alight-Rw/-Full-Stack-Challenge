@@ -32,7 +32,8 @@ As a developer, we are approaches you to develop a web application for Our HR th
         - Provide feedback and confirmation messages to users upon successful creation, update, or deletion of candidate and job records, enhancing the user
         experience and usability of the application.
 
-   🔐 Authentication on Login and Sign in
+   🔐 Authentication on Login and Signin
+
         - Authentication(Implement secure authentication mechanisms, allowing users to sign up, log in,Upon registration, users should receive a 
          confirmation email to verify their account.)
         - Signup: HR personnel can sign up by providing necessary details. Upon signup, the system automatically assigns the position as HR personnel.
