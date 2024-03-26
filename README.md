@@ -3,7 +3,7 @@
 
 # FullStack Challenge (Javascript/Typescript) MERN
 
-* Create a full web application using the following stacks
+* Create a full web application using the following stacks:
         - Back-end: Use any Javascript or Typescript framework/library you are comfortable with (or any technology).
         - Front-end: Use any front-end framework/library you are most comfortable with.
 
