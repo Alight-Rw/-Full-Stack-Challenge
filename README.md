@@ -7,10 +7,9 @@
         - Back-end: Use any Javascript or Typescript framework/library you are comfortable with (or any technology).
         - Front-end: Use any front-end framework/library you are most comfortable with.
 
-   📝 Full CRUD Functionality for Candidates and Jobs:
+   📝 Create a full web application using the following stacks:
 
-        - Implement full CRUD (Create, Read, Update, Delete) functionality for managing candidates and job postings.
-
+        - Back-end: Use any Javascript or Typescript framework/library you are comfortable with (or any technology)
 
 * In this challenge, you have the flexibility to choose whether to work on the frontend, the backend, or both.
   However, completing the frontend portion is mandatory, while developing the backend is considered an added bonus.
