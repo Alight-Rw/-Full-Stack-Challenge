@@ -3,17 +3,10 @@
 
 # FullStack Challenge (Javascript/Typescript) MERN
 
-* Create a full web application using the following stacks,
-      - Back-end: Use any Javascript or Typescript framework/library you are comfortable with (or any technology).
-      - Front-end: Use any front-end framework/library you are most comfortable with.
+* Create a full web application using the following stacks
+        - Back-end: Use any Javascript or Typescript framework/library you are comfortable with (or any technology).
+        - Front-end: Use any front-end framework/library you are most comfortable with.
 
-       - Implement full CRUD (Create, Read, Update, Delete) functionality for managing candidates and job postings.
-        - Allow HR personnel to add new candidates to the system, including their personal information, qualifications, and job preferences.
-        - Enable HR personnel to add new job postings, providing detailed descriptions of job roles, requirements, and responsibilities.
-        - Ensure that HR personnel can view, edit, and delete candidate and job records as needed, providing flexibility and control over the recruitment process.
-        - Implement validation to ensure that all required fields are filled out correctly and that data integrity is maintained throughout the CRUD operations.
-        - Provide feedback and confirmation messages to users upon successful creation, update, or deletion of candidate and job records, enhancing the user
-        experience and usability of the application.
 
 * In this challenge, you have the flexibility to choose whether to work on the frontend, the backend, or both.
   However, completing the frontend portion is mandatory, while developing the backend is considered an added bonus.
