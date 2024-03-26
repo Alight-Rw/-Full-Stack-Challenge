@@ -10,6 +10,7 @@
    📝 Create a full web application using the following stacks:
 
         - Back-end: Use any Javascript or Typescript framework/library you are comfortable with (or any technology)
+        - Front-end: Use any front-end framework/library you are most comfortable with.
 
 * In this challenge, you have the flexibility to choose whether to work on the frontend, the backend, or both.
   However, completing the frontend portion is mandatory, while developing the backend is considered an added bonus.
