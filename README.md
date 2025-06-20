@@ -66,7 +66,7 @@ As a developer, we are approaches you to develop a web application for Our HR th
 - FIGMA link Here 
    - https://www.figma.com/file/ZAVjI978Po5KAMUVHlParv/HR-Management-Alight?type=design&node-id=0%3A1&mode=design&t=690dLTDRbrAEfTOi-1
 - Submit via this Google form https://forms.gle/7vcCbedjofbJX6BX8
-- Deadline: 29 March 2024 at Mid-night, submit before then.
+- Deadline: 19 June 2024 at Mid-night, submit before then.
 
 ### 👷🏽‍♀️Best Practices
 
